@@ -1,0 +1,48 @@
+Cabin : 0
+Passenger 0 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : {FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 1
+Passenger 0 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : {FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 2
+Passenger 0 : {FirstName : dccfd, Surname : fvvd, Expenses : 12121.0}
+Passenger 1 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : {FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 3
+Passenger 0 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : {FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 4
+Passenger 0 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : {FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 5
+Passenger 0 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : {FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 6
+Passenger 0 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : {FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 7
+Passenger 0 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : {FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 8
+Passenger 0 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : {FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 9
+Passenger 0 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : {FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 10
+Passenger 0 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : {FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 11
+Passenger 0 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : {FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : {FirstName : e, Surname : e, Expenses : 0.0}
